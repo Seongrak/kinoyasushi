@@ -1,0 +1,15 @@
+.container {
+  padding-top: 145px;
+  margin: 0;
+  text-align: center;
+}
+
+.drinkImg {
+  max-width: 80%;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding-top: 85px;
+  }
+}

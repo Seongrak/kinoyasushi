@@ -1,0 +1,28 @@
+.container {
+  padding-top: 150px;
+  margin: 0 30%;
+  line-height: 200%;
+}
+.reservationList {
+  color: black;
+  list-style-type: circle;
+}
+
+.bar {
+  width: 100%;
+  height: 1px;
+  background-color: grey;
+  margin: 10%;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding-top: 85px;
+    margin: 0 5%;
+  }
+
+  .bar {
+    margin: 5%;
+    width: 80%;
+  }
+}

@@ -1,0 +1,24 @@
+.menuContainer {
+  padding-top: 150px;
+  margin: 0;
+  text-align: center;
+}
+
+.menuItem {
+  height: 1400px;
+  width: 650px;
+}
+
+.menu {
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
+}
+
+@media screen and (max-width: 768px) {
+  .menuContainer {
+    padding-top: 50px;
+  }
+  .menuItem {
+    height: 85%;
+  }
+}
