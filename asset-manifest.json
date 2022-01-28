@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kinoyasushi/static/css/main.205f07ae.chunk.css",
-    "main.js": "/kinoyasushi/static/js/main.f03d2d86.chunk.js",
-    "main.js.map": "/kinoyasushi/static/js/main.f03d2d86.chunk.js.map",
+    "main.js": "/kinoyasushi/static/js/main.2a7206e7.chunk.js",
+    "main.js.map": "/kinoyasushi/static/js/main.2a7206e7.chunk.js.map",
     "runtime-main.js": "/kinoyasushi/static/js/runtime-main.8dceb5d8.js",
     "runtime-main.js.map": "/kinoyasushi/static/js/runtime-main.8dceb5d8.js.map",
     "static/js/2.e29a11d7.chunk.js": "/kinoyasushi/static/js/2.e29a11d7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8dceb5d8.js",
     "static/js/2.e29a11d7.chunk.js",
     "static/css/main.205f07ae.chunk.css",
-    "static/js/main.f03d2d86.chunk.js"
+    "static/js/main.2a7206e7.chunk.js"
   ]
 }
